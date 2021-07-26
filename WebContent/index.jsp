@@ -23,7 +23,7 @@
 	<ul>
 		<li>Master</li>
 		<li>O 신규 개발</li>
-		
+		<li>GIT HUB PUSH</li>
 	</ul>
 
 </body>
